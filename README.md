@@ -74,4 +74,4 @@ git pull origin main
 ✅ Agora qualquer pessoa pode clonar, instalar e rodar o agente sem problemas!
 ✅ Com as bibliotecas organizadas, fica fácil manter tudo atualizado.
 
-🔥 Se precisar adicionar mais alguma coisa, só avisar! 🚀💡
+🔥 Se precisar adicionar mais alguma coisa, só avisar! 🚀💡new
