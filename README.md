@@ -66,6 +66,7 @@ Se quiser testar outros agentes:
 
 python agentes/agente_clima.py
 python agentes/agente_memoria.py
+
 6️⃣ Atualizar o Código
 Se precisar atualizar o projeto com as últimas mudanças do Gitea:
 
