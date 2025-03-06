@@ -33,11 +33,14 @@ cd projetos-python-agentes
 
 python -m venv venv
 venv\Scripts\activate
+
 ✅ No Linux/macOS (Terminal)
 
 python3 -m venv venv
 source venv/bin/activate
+
 3️⃣ Instalar as Dependências
+
 Agora, instale todas as bibliotecas necessárias:
 
 pip install -r requirements.txt
@@ -45,7 +48,9 @@ pip install -r requirements.txt
 
 pip install openai langchain langchain_community langchain_core langchain_text_splitters langchain_openai langgraph google-generativeai python-dotenv requests
 pip freeze > requirements.txt  # Salva as dependências no arquivo
+
 4️⃣ Configurar as Chaves de API
+
 Antes de rodar o agente, precisamos configurar as chaves API.
 
 	1️⃣ Abra o arquivo .env dentro da pasta config/ e adicione:
