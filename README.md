@@ -72,7 +72,9 @@ Se precisar atualizar o projeto com as últimas mudanças do Gitea:
 
 git pull origin main
 📌 🚀 Conclusão
+
 ✅ Agora qualquer pessoa pode clonar, instalar e rodar o agente sem problemas!
+
 ✅ Com as bibliotecas organizadas, fica fácil manter tudo atualizado.
 
 🔥 Se precisar adicionar mais alguma coisa, só avisar! 🚀💡new
