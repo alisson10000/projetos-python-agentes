@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 # Carregar variáveis do arquivo .env
-load_dotenv()
+load_dotenv(os.path.join(os.path.dirname(__file__), "../config/.env"))
 
 # API Key da WeatherAPI
 WEATHERAPI_KEY = os.getenv("WEATHERAPI_KEY")
