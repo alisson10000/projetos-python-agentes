@@ -15,6 +15,7 @@ from database.db_handler import salvar_memoria, recuperar_memoria  # Importando 
 
 # 🔹 Carregar variáveis do ambiente (.env)
 load_dotenv(os.path.join(os.path.dirname(__file__), "../config/.env"))
+
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # 🔹 Verificação da chave da API
